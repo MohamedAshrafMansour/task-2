@@ -1,0 +1,17 @@
+1-Fake Sender Address (Mismatched Domain)
+Sender: administraciones@pentagon-seguridad.cl
+Legitimate communications from American Express will always come from official domains like @americanexpress.com or @aexp.com. This email is sent from an unrelated Chilean domain (.cl), likely a compromised or spoofed server.
+
+2-Spelling & Grammatical Mistakes
+Subject line: "There's issue with your American Express account" (missing the word "an").
+Body text:
+-"untill you verify your account" ("until" misspelled with two ls).
+-"we advise you to update the information about your account ownership" (awkward, unnatural phrasing).
+-"we advise not to notify your account password to anyone" (poor English; legitimate banks typically state "never share your password with anyone").
+
+3-Manufactured Urgency & Coercive Language
+Phishing emails often threaten account suspension ("we placed a temporary suspension...") to induce panic and rush you into clicking before verifying legitimacy.
+
+
+4-Generic Call-to-Action Button
+The large blue button ("Click here to review your account now") leads to a fraudulent web page designed to harvest your login credentials and credit card details.
